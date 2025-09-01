@@ -15,7 +15,12 @@ A Flutter application that allows users to upload and watch videos in a YouTube-
 ## Screenshots
 Here are some screenshots of the app:
 
-![Home Screen](assets/Homepage.png)  
-![Video Player Screen](assets/Videoplayer.png)  
-![Videos List Screen](assets/Videoslist.png)  
-![Channels Screen](assets/Channels.png)  
+<p align="center">
+  <img src="assets/Homepage.png" alt="Home Screen" width="45%"/>
+  <img src="assets/Videoplayer.png" alt="Video Player Screen" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="assets/Videoslist.png" alt="Videos List Screen" width="45%"/>
+  <img src="assets/Channels.png" alt="Channels Screen" width="45%"/>
+</p>
